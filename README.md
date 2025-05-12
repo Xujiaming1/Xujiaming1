@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+QQ: 1792107607   WeChat: w18736205391    email: xjm20001018@163.com
 <!--
 **Xujiaming1/Xujiaming1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
