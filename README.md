@@ -1,5 +1,4 @@
 ## Hi there 👋
-QQ: 1792107607   WeChat: w18736205391    email: xjm20001018@163.com
 ![](https://img.shields.io/badge/QQ-1792107607-green.svg) 
 ![](https://img.shields.io/badge/WeChat-w18736205391-green.svg) 
 [![Mail Badge](https://img.shields.io/badge/-xjm20001018@163.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xjm20001018@163.com)](mailto:xjm20001018@163.com)
